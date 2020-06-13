@@ -98,8 +98,8 @@ div.qEsp {
 .img-logo {
   width: 7.25%;
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 1px;
+  left: 10px;
 }
 /* MENU -----------------------------------*/
 .nav {
